@@ -1,6 +1,6 @@
-package DAO;
+package core.application.core.DAO;
 
-import Model.Profile;
+import core.application.core.Model.Profile;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

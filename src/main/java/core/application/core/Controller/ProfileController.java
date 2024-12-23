@@ -1,7 +1,7 @@
-package Controller;
+package core.application.core.Controller;
 
-import Model.Profile;
-import Service.ProfileService;
+import core.application.core.Model.Profile;
+import core.application.core.Service.ProfileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

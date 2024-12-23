@@ -1,6 +1,6 @@
-package Service;
+package core.application.core.Service;
 
-import Model.Profile;
+import core.application.core.Model.Profile;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
